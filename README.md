@@ -49,7 +49,8 @@ When you run the app, you’ll have two options:
    Enter the city name directly in the terminal to fetch weather data. 🌃  
 
 2️⃣ **GUI Mode**:  
-   A simple and clean graphical interface to enter the city name and view the results. 🖼️  
+   A simple and clean graphical interface to enter the city name and view the results. ![image](https://github.com/user-attachments/assets/f62bede6-231d-4a4b-aa70-52c78b411d01)
+
 
 ---
 
