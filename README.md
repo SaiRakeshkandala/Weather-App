@@ -92,7 +92,8 @@ Sunset: 18:11:00
 ```
 
 ### 🖼️ GUI Mode:
-![GUI Screenshot Placeholder](https://via.placeholder.com/400x300.png?text=GUI+Weather+App)
+![image](https://github.com/user-attachments/assets/8d33ccf6-6b19-418e-a69f-9847e0a31893)
+
 
 ---
 
